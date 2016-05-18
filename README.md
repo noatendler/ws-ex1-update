@@ -27,7 +27,7 @@ Each student has id, name, grade, couese and year. Here is an example:
 
 To get the details of the JSON you need to click on the link below:  
 
-[**All Students**](ws-ex1-noa.herokuapp.com/getAllExcellenceStudent)
+[**All Students**](https://ws-ex1-noa-new.herokuapp.com/getAll)
 
 </section>
 
@@ -37,7 +37,7 @@ To get the details of the JSON you need to click on the link below:
 
 To get the details of a certain student by id you need to click on the link below (this link is of student with id 1):  
 
-[**Student Grade by id**](ws-ex1-noa.herokuapp.com/getStudGrade/:1)
+[**Student Grade by id**](https://ws-ex1-noa-new.herokuapp.com/getStudentById/1)
 
 </section>
 
@@ -47,7 +47,7 @@ To get the details of a certain student by id you need to click on the link belo
 
 To get the details of the outstanding students that has grades of 90 and above in a certain year you need to click on the link below (this link is for year 2016):  
 
-[**Excellence Students by year**](ws-ex1-noa.herokuapp.com/getExcellenceByYear/2016)
+[**Excellence Students by year**](https://ws-ex1-noa-new.herokuapp.com/getBestByYear/2016)
 
 </section>
 
